@@ -15,6 +15,7 @@ import java.util.List;
             numbers.add(-9);
             numbers.add(124);
             numbers.add(67);
+            numbers.add(123);
             nums(numbers);
         }
 
